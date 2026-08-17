@@ -1,4 +1,31 @@
-## Hi there 👋
+
+# Hi 👋, I'm Pratik!
+
+🎓 **Data Science and Engineering Student | IISER Bhopal**
+💻 Learning **C++ & Programming**
+🔬 Interested in **Science, Technology & Computer Science**
+
+### 🚀 Currently Learning
+
+* C++
+* Data Structures & Algorithms
+* Web Development
+
+### 📌 Goals
+
+Building projects, improving my coding skills, and exploring new technologies.
+
+### 🛠️ Tech Stack
+
+* C++ 
+* HTML
+
+---
+
+⭐ *Learning, building, and improving every day.*
+
+
+
 
 <!--
 **thakurpratik246-creator/thakurpratik246-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
